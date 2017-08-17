@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\bin\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.deps.json
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\bin\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\bin\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\bin\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.dll
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\bin\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.pdb
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\obj\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\obj\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\obj\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.AssemblyInfoInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\obj\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\obj\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.dll
+c:\users\user\documents\visual studio 2017\Projects\RP.GOF\RP.GOF.ChainOfResposibility\obj\Debug\netcoreapp2.0\RP.GOF.ChainOfResposibility.pdb
